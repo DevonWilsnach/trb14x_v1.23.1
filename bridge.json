@@ -1,0 +1,12 @@
+{
+    "ethernet_host": "192.168.4.131",
+    "ethernet_port": 2500,
+    "mqtt_broker": "mqtt.w8sense.com",
+    "mqtt_port": 1885,
+    "mqtt_topic": "w8box_140_0000/bridge/reading",
+    "mqtt_log": "w8box_140_0000/bridge/log",
+    "mqtt_username": "BlackBee",
+    "mqtt_password": "W8Box2023",
+    "com_port": "COM1"
+  }
+  
